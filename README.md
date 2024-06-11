@@ -147,9 +147,10 @@ To get started with the course materials and code examples, follow these steps:
 
 - **[Akash Kumar](https://github.com/theakash07)**
 
-## Acknowledgment
+<!-- ## Acknowledgment
 
 😊 Special thanks to **Ming, Chris, Er. Raman Sir,** and the **Discord Community** for their continuous support and guidance.
+-->
 
 
 ## Contributing 🤝
