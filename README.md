@@ -142,7 +142,7 @@ To get started with the course materials and code examples, follow these steps:
 
 ## Author 😎
 
-- **[Sanjay Choudhary ❤️](https://github.com/cu-sanjay)**
+- **[Akash Kumar](https://github.com/theakash07)**
 
 ## Acknowledgment
 
