@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="img/mylogo.png" alt="Logo" width="300">
+  <img src="mylogo.png" alt="Logo" width="300">
   <br>
   Summer Training Program on Blockchain in collaboration with Metacrafters by Chandigarh University
 </h1>
