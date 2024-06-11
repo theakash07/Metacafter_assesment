@@ -119,12 +119,15 @@ To get started with the course materials and code examples, follow these steps:
 
 ## My NFT Collection 🏆
 
+<!-- 
 <div align="center">
   <img src="https://authoring.metacrafters.io/assets/cms/JS_3_40514dc63b.png?updated_at=2023-02-17T16:18:47.388Z" alt="NFT 1" width="200" />
   <img src="https://authoring.metacrafters.io/assets/cms/Group_483375_f1b416ffb4.png?updated_at=2023-01-04T17:12:09.776Z" alt="NFT 2" width="200" />
   <img src="https://authoring.metacrafters.io/assets/cms/Frame_460_792eab592a.png?updated_at=2023-05-03T07:51:33.211Z" alt="NFT 3" width="200" />
   <img src="https://authoring.metacrafters.io/assets/cms/Group_483404_a1bac61902.png?updated_at=2023-02-27T14:37:23.249Z" alt="NFT 4" width="200" />
 </div>
+-->
+
 
 
 ## Additional Resources 😍🛠️
@@ -156,6 +159,7 @@ Contributions to this project are welcome! If you find any issues or have sugges
 
 This project is licensed under the **[MIT License](LICENSE)**.
 
-## Connect with Me 📞
+<!-- ## Connect with Me 📞
 
 [![Instagram Icon](https://img.shields.io/badge/-Instagram-pink?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/sannjay._) [![Twitter Icon](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/Sanjay02705) [![LinkedIn Icon](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjaychoudhary2705/) [![Telegram Icon](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/Sanjay_X3) [![Discord Icon](https://img.shields.io/badge/-Discord-blue?style=flat&logo=discord&logoColor=white)](https://discord.com/users/sannjay)
+-->
