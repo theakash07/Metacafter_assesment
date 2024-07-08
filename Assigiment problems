@@ -1,0 +1,25 @@
+// Create an empty array to hold the NFTs
+let nfts = [];
+
+// Create an NFT object
+let nft1 = {
+  id: 1,
+  name: "NFT 1",
+  image: "image1.png",
+  description: "This is NFT 1"
+};
+
+// Create another NFT object
+let nft2 = {
+  id: 2,
+  name: "NFT 2",
+  image: "image2.png",
+  description: "This is NFT 2"
+};
+
+// Add the NFTs to the array
+nfts.push(nft1);
+nfts.push(nft2);
+
+// Now the array holds two NFTs
+console.log(nfts);
